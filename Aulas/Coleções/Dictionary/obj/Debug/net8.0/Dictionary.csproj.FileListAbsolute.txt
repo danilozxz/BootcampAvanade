@@ -1,0 +1,14 @@
+C:\Users\PROFESSOR\Desktop\Arquivos Danilo\BootcampAvanade\C#\Aulas\Dictionary\bin\Debug\net8.0\Dictionary.exe
+C:\Users\PROFESSOR\Desktop\Arquivos Danilo\BootcampAvanade\C#\Aulas\Dictionary\bin\Debug\net8.0\Dictionary.deps.json
+C:\Users\PROFESSOR\Desktop\Arquivos Danilo\BootcampAvanade\C#\Aulas\Dictionary\bin\Debug\net8.0\Dictionary.runtimeconfig.json
+C:\Users\PROFESSOR\Desktop\Arquivos Danilo\BootcampAvanade\C#\Aulas\Dictionary\bin\Debug\net8.0\Dictionary.dll
+C:\Users\PROFESSOR\Desktop\Arquivos Danilo\BootcampAvanade\C#\Aulas\Dictionary\bin\Debug\net8.0\Dictionary.pdb
+C:\Users\PROFESSOR\Desktop\Arquivos Danilo\BootcampAvanade\C#\Aulas\Dictionary\obj\Debug\net8.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PROFESSOR\Desktop\Arquivos Danilo\BootcampAvanade\C#\Aulas\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfoInputs.cache
+C:\Users\PROFESSOR\Desktop\Arquivos Danilo\BootcampAvanade\C#\Aulas\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfo.cs
+C:\Users\PROFESSOR\Desktop\Arquivos Danilo\BootcampAvanade\C#\Aulas\Dictionary\obj\Debug\net8.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\PROFESSOR\Desktop\Arquivos Danilo\BootcampAvanade\C#\Aulas\Dictionary\obj\Debug\net8.0\Dictionary.dll
+C:\Users\PROFESSOR\Desktop\Arquivos Danilo\BootcampAvanade\C#\Aulas\Dictionary\obj\Debug\net8.0\refint\Dictionary.dll
+C:\Users\PROFESSOR\Desktop\Arquivos Danilo\BootcampAvanade\C#\Aulas\Dictionary\obj\Debug\net8.0\Dictionary.pdb
+C:\Users\PROFESSOR\Desktop\Arquivos Danilo\BootcampAvanade\C#\Aulas\Dictionary\obj\Debug\net8.0\Dictionary.genruntimeconfig.cache
+C:\Users\PROFESSOR\Desktop\Arquivos Danilo\BootcampAvanade\C#\Aulas\Dictionary\obj\Debug\net8.0\ref\Dictionary.dll
